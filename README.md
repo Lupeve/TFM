@@ -5,9 +5,9 @@ MÁSTER BIG DATA Y DATA SCIENCE
 
 Este estudio realiza un análisis de las series históricas (1999-2023) del consumo alimentario total y de los sectores de mayor importancia en la industria alimentaria en España (carne, arroz y huevos). 
 
-# Contenido del repositorio
+## Contenido del repositorio
 
-- /bbdd Base de datos relacional SQLite
+- /Alimentación total Contiene códigos y archivos de alimentación total
 - /bbdd Base de datos relacional SQLite
 - /powerbi Plataforma de visualización
 - /Rstudio Contiene códigos y archivos de los productos
