@@ -11,9 +11,8 @@ Este estudio realiza un análisis de las series históricas (1999-2023) del cons
 - /Arroz: contiene códigos y archivos del arroz
 - /bbdd: base de datos relacional SQLite
 - /Carne: contiene códigos y archivos de la carne
-- /Huevos: contiene códigos y archivos de huevos
+- /Huevos unds: contiene códigos y archivos de huevos
 - /powerbi: plataforma de visualización
-- /Rstudio Contiene códigos y archivos de los productos
 - /Tablas csv: ficheros csv con datos estructurados para bbdd
 
 ## NOTA:  
