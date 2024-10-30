@@ -13,6 +13,6 @@ Este estudio realiza un análisis de las series históricas (1999-2023) del cons
 - /Rstudio Contiene códigos y archivos de los productos
 - /Tablas Ficheros csv con datos estructurados para bbdd
 
-# NOTA:  
+## NOTA:  
 	1. Es necesario descargar la BBDD y antes de ejecutar los ficheros *.R y .pbix añadir la ruta de la bbdd  
 	2. Es necesario ejecutar primero los archivos "Descomposicion estacional * .R"
